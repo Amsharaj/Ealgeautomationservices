@@ -317,3 +317,7 @@
 .fa-user:before {
     content: "\f007";
 }
+
+.fa-arrow-up:before {
+    content: "\f062";
+}

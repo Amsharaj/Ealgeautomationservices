@@ -403,7 +403,7 @@
             if( scrollValue < 96 ) {
                 $("#scroll-percentage-value").text(`${scrollValue}%`);
             } else {
-                $("#scroll-percentage-value").html('<i class="fa-solid fa-angle-up"></i>');
+                $("#scroll-percentage-value").html('<i class="fa fa-arrow-up"></i>');
             }
         }
         window.onscroll = scrollPercentage;
