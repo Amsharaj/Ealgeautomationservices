@@ -1,0 +1,319 @@
+@font-face {
+    font-family: FontAwesome;
+    src: url("./fontawesome-webfont.woff");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap
+}
+
+.fa {
+    display: inline-block;
+    font: 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale
+}
+
+.fa-envelope-o:before {
+    content: "\f003"
+}
+
+.fa-map-marker:before {
+    content: "\f041"
+}
+
+.fa-twitter:before {
+    content: "\f099"
+}
+
+.fa-facebook-f:before,
+.fa-facebook:before {
+    content: "\f09a"
+}
+
+.fa-linkedin:before {
+    content: "\f0e1"
+}
+
+.fa-angle-right:before {
+    content: "\f105"
+}
+
+.fa-angle-down:before {
+    content: "\f107"
+}
+
+.fa-instagram:before {
+    content: "\f16d"
+}
+
+.fa-pinterest-p:before {
+    content: "\f231"
+}
+
+.fa-whatsapp:before {
+    content: "\f232"
+}
+
+.fa-phone-square:before {
+    content: "\f098"
+}
+
+.fa-phone:before {
+    content: "\f095"
+}
+
+.fa-caret-up:before {
+    content: "\f0d8"
+}
+
+.fa-star:before {
+    content: "\f005"
+}
+
+.fa-check:before {
+    content: "\f00c"
+}
+
+.fa-quote-left:before {
+    content: "\f10d"
+}
+
+.fa-snowflake-o:before {
+    content: "\f2dc"
+}
+
+.fa-question:before {
+    content: "\f128"
+}
+
+.fa-youtube-play:before {
+    content: "\f16a"
+}
+
+.fa-envelope:before {
+    content: "\f0e0"
+}
+
+.fa-chevron-right:before {
+    content: "\f054"
+}
+
+.fa-home:before {
+    content: "\f015"
+}
+
+.fa-pinterest:before {
+    content: "\f0d2"
+}
+
+.fa-arrow-up:before {
+    content: "\f062"
+}
+
+.fa-cog:before {
+    content: "\f013"
+}
+
+.fa-code:before {
+    content: "\f121"
+}
+
+.fa-cube:before {
+    content: "\f1b2"
+}
+
+.fa-flag:before {
+    content: "\f024"
+}
+
+.fa-address-book:before {
+    content: "\f2b9"
+}
+
+.fa-cubes:before {
+    content: "\f1b3"
+}
+
+.fa-archway:before {
+    content: "\f557"
+}
+
+.fa-check-circle:before {
+    content: "\f058"
+}
+
+.fa-stripe::before {
+    content: "\f847"
+}
+
+.fa-table:before {
+    content: "\f0ce"
+}
+
+.fa-x-twitter:before {
+    content: "\e61b"
+}
+
+.fa-bars:before {
+    content: "\f0c9"
+}
+
+.fa-building:before {
+    content: "\f1ad"
+}
+
+.fa-castle:before {
+    content: "\e0de"
+}
+
+.fa-refresh:before {
+    content: "\f021"
+}
+
+.fa-wordpress:before {
+    content: "\f19a";
+}
+
+.fa-cart-plus:before {
+    content: "\f217";
+}
+
+.fa-plus-circle:before {
+    content: "\f055";
+}
+
+.fa-hospital-o:before {
+    content: "\f0f8";
+}
+
+.fa-arrow-right:before {
+    content: "\f061";
+}
+
+.fa-window-close:before {
+    content: "\f2d3";
+}
+
+.fa-circle-check:before {
+    content: "\f058";
+}
+
+.fa-rocket:before {
+    content: "\f135";
+}
+
+.fa-circle-user::before {
+    content: "\f2bd";
+}
+
+.fa-calendar-days::before {
+    content: "\f073";
+}
+
+.fa-envelope:before {
+    content: "\f0e0";
+}
+
+.fa-map-marker:before {
+    content: "\f041";
+}
+
+.fa-phone-square:before,
+.fa-square-phone:before {
+    content: "\f098";
+}
+
+.fa-check-double:before {
+    content: "";
+}
+
+.fa-x-twitter:before {
+    content: "\e61b";
+}
+
+.fa-github:before {
+    content: "\f09b";
+}
+
+.fa-linkedin:before {
+    content: "\f08c";
+}
+
+.fab.fa-twitter {
+    font-family: 'poppins';
+}
+
+.fab.fa-twitter::before {
+    content: "𝕏";
+    font-size: 24px;
+    font-style: normal;
+}
+
+.fa-chevron-circle-up:before,
+.fa-circle-chevron-up:before {
+    content: "\f139";
+}
+
+.fa-chevron-circle-down:before,
+.fa-circle-chevron-down:before {
+    content: "\f13a";
+}
+
+.fa-face-smile:before,
+.fa-smile:before {
+    content: "\f118";
+}
+
+.fa-crown:before {
+    content: "\f521";
+}
+
+.fa-people-group:before {
+    content: "\e533";
+}
+
+.fa-users:before {
+    content: "\f0c0";
+}
+
+.fa-tree:before {
+    content: "\f1bb";
+}
+
+.fa-sliders-h:before,
+.fa-sliders:before {
+    content: "\f1de";
+}
+
+.fa-user:before {
+    content: "\f007";
+}
+
+.fa-tasks:before {
+    content: "\f0ae";
+}
+
+.fa-arrow-right-long:before,
+.fa-long-arrow-right:before {
+    content: "\f178";
+}
+
+.fa-chevron-left:before {
+    content: "\f053";
+    color: #F44E19;
+}
+
+.fa-chevron-right:before {
+    content: "\f054";
+    color: #F44E19;
+}
+
+.fa-play:before {
+    content: "\f04b";
+}
+
+.fa-user:before {
+    content: "\f007";
+}
